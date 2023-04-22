@@ -13,7 +13,6 @@ This application allows you to compress uncompressed files to zlib files. or dec
  * python3-tk
 
 #### Installation
-
 Clone the repository and install dependencies
 ```
 git clone https://github.com/DeadSubz/re2_zlib_tool
@@ -22,8 +21,12 @@ pip install -r requirements.txt
 ```
 
 #### Usage
+```
+python3 re2_zlibtool.py
+```
+or
+```
+./re2_zlibtool.py
+```
 
-```
-python3 re2
-```
 Good luck!
