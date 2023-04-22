@@ -3,13 +3,17 @@ My first tkinter tool. (if ya want an command line tool it's inside the "cli" di
 
 This application allows you to compress uncompressed files to zlib files. or decompress zlib files.
 
-## Features 
+### Features 
 - Zlib compress - ✅
 - Zlib decompress - soon
 
-## Installation
+#### Requirements
+ * python3
+ * python3-pip
+ * python3-tk
 
-### requirements
+#### Installation
+
 Clone the repository and install dependencies
 ```
 git clone https://github.com/DeadSubz/re2_zlib_tool
@@ -17,8 +21,9 @@ cd re2_zlib_tool
 pip install -r requirements.txt
 ```
 
-## Usage
+#### Usage
+
 ```
 python3 re2
 ```
-Be sure to check if it's everything allright.
+Good luck!
