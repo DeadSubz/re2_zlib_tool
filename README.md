@@ -8,6 +8,8 @@ This application allows you to compress uncompressed files to zlib files. or dec
 - Zlib decompress - soon
 
 ## Installation
+
+### requirements
 Clone the repository and install dependencies
 ```
 git clone https://github.com/DeadSubz/re2_zlib_tool
