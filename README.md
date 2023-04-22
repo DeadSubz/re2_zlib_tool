@@ -5,7 +5,7 @@ This application allows you to compress uncompressed files to zlib files. or dec
 
 ## Features 
 - Zlib compress - ✅
-- Zlib decompress - ❔
+- Zlib decompress - soon
 
 ## Installation
 Clone the repository and install dependencies
