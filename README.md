@@ -17,7 +17,7 @@ Clone the repository and install dependencies
 ```
 git clone https://github.com/DeadSubz/re2_zlib_tool
 cd re2_zlib_tool
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 #### Usage
