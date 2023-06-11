@@ -1,5 +1,5 @@
 # RE2-zlib-tool
-My first tkinter tool. (if ya want an command line tool it's inside the "cli" dir)
+My first tkinter tool. (if ya want an command line tool it's inside the "cli" dir, SOON)
 
 This application allows you to compress uncompressed files to zlib files. or decompress zlib files.
 
